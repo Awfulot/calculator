@@ -1,1 +1,5 @@
-var total = 0;
+var result = 0;
+var numbers = [];
+var operators = [];
+
+
